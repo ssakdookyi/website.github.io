@@ -2,4 +2,14 @@ body{
     font-size: 30pt; 
     margin-top: 0px;
     text-align: center;
+    border-bottom: 5px solid black;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.roh{
+    color:brown;
+    text-align: center;
+    font-size: 50px;
 }
